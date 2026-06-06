@@ -1,6 +1,8 @@
 # VST3
 This is where i'm storing all of my VST3 addons for testing. they're all free, enjoy.
 
+#Sorry this build for whatever reason didn't want to compile the way I was hoping it would so now its updated and I think I also fixed the look ahead feature so it will duck correctly. 
+
 ##INSTALLATION:
 
 - Step 1: download the zip file.
